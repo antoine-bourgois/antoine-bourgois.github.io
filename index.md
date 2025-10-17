@@ -4,7 +4,7 @@ title: "Antoine Bourgois"
 ---
 
 <div style="display:flex; align-items:center;">
-  <img src="assets/img/profile.jpg" alt="Profile" style="width:150px; border-radius:50%; margin-right:20px;">
+  <img src="assets/img/profile.jpg" alt="Profile" style="width:150px; margin-right:20px;">
   <p>
     Hi, I’m Antoine Bourgois, an NLP PhD student focused on <strong>coreference resolution</strong> and computational analysis of French literature (Propp-fr).
   </p>
