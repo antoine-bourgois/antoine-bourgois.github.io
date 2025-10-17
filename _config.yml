@@ -1,41 +1,23 @@
-# Site settings
 title: "Antoine Bourgois"
 description: "NLP researcher | Coreference resolution | Propp-fr"
-logo: /assets/img/profile.jpg   # put an image in /assets/img/
-show_downloads: false
+logo: /assets/img/profile.jpg
 
-# Theme settings
 theme: jekyll-theme-minimal
 
-# Author info
 author:
   name: "Antoine Bourgois"
-  email: "antoine.bourgois@protonmail.com"
   github: "antoine-bourgois"
   linkedin: "https://www.linkedin.com/in/antoine-bourgois/"
   twitter: "https://x.com/Antoine_Brgs"
 
-# Navigation menu (shows in sidebar)
 nav:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /projects
-  - title: "Publications"
-    url: /publications
-  - title: "Contact"
-    url: /contact
 
-# Google Analytics (optional)
-google_analytics: G-XXXXXXXXXX
-
-# Plugins (optional)
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Markdown options
 markdown: kramdown
 kramdown:
   input: GFM
-
