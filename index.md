@@ -8,6 +8,9 @@ title: "Antoine Bourgois"
   <p>
     Hi, I’m Antoine Bourgois, an NLP PhD student focused on <strong>coreference resolution</strong> and computational analysis of French literature (Propp-fr).
   </p>
+    <p>
+    Contact: antoine [dot] bourgois [at] protonmail [dot] com
+  </p>
 </div>
 
 ---
@@ -15,7 +18,7 @@ title: "Antoine Bourgois"
 ## Research Articles
 **Antoine Bourgois** and Thierry Poibeau.
 2025.
-[The Elephant in the Coreference Room:\\Resolving Coreference in Full-Length French Fiction Works.](articles/2025_CRAC_CoreferenceInFrenchNovels.pdf)
+[The Elephant in the Coreference Room: Resolving Coreference in Full-Length French Fiction Works.](articles/2025_CRAC_CoreferenceInFrenchNovels.pdf)
 In *EMNLP 2025, Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025)*, Suzhou, China.
 
 Olga Seminck, **Antoine Bourgois**, Yoann Dupont, Mathieu Dehouck, Marine Delaborde.
