@@ -6,9 +6,7 @@ title: "Antoine Bourgois"
 <div style="display:flex; align-items:center;">
   <img src="assets/img/profile.jpg" alt="Profile" style="width:150px; margin-right:20px;">
   <p>
-    Hi, I’m Antoine Bourgois, an NLP PhD student focused on <strong>coreference resolution</strong> and computational analysis of French literature (Propp-fr).
-  </p>
-    <p>
+    Hi, I’m Antoine Bourgois, an NLP PhD student focused on <strong>coreference resolution</strong> and computational analysis of French literature (Propp-fr).<br>
     Contact: antoine [dot] bourgois [at] protonmail [dot] com
   </p>
 </div>
