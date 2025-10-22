@@ -18,6 +18,7 @@ title: "Antoine Bourgois"
 2025.
 [The Elephant in the Coreference Room: Resolving Coreference in Full-Length French Fiction Works.](articles/2025_CRAC_CoreferenceInFrenchNovels.pdf)
 In *EMNLP 2025, Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025)*, Suzhou, China.
+[arxiv](https://arxiv.org/abs/2510.15594), [hal](https://hal.science/hal-05319970).
 
 Olga Seminck, **Antoine Bourgois**, Yoann Dupont, Mathieu Dehouck, Marine Delaborde.
 2025.
