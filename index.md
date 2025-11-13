@@ -25,7 +25,7 @@ Olga Seminck, **Antoine Bourgois**, Yoann Dupont, Mathieu Dehouck, Marine Delabo
 2025.
 [GLaRef@CRAC2025: Should We Transform Coreference Resolution into a Text Generation Task?](articles/2025_CRAC_SharedTask.pdf)
 In *Proceeding of the Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025).* EMNLP 2025, Suzhou, China.
-[Presentation](articles/EMNLP_CRAC_2025_with-UWB.pdf)
+[Presentation](articles/EMNLP_CRAC_2025_with-UWB.pdf). [Slides](articles/2025_CRAC_SharedTask_Slides.pdf)
 
 
 
