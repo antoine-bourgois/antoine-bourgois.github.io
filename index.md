@@ -13,7 +13,7 @@ title: "Antoine Bourgois"
 
 ---
 ## Software
-**Propp: Pattern Recognition and Ontologies for Prose Processing**
+**Propp: Pattern Recognition and Ontologies for Prose Processing**  
 A Natural Language Processing Framework for Narrative Analysis
 
 [**GitHub Repo**]([articles/2025_CRAC_CoreferenceInFrenchNovels.pdf](https://github.com/lattice-8094/propp)), [**Python Library Documentation**](https://lattice-8094.github.io/propp/)
