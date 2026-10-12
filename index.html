@@ -2,6 +2,105 @@
 layout: null
 title: "Antoine Bourgois"
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<meta name="description" content="Antoine Bourgois, NLP PhD student working on coreference resolution and computational analysis of French literature.">
+<style>
+:root {
+  --bg: #ffffff;
+  --card: #f6f8fb;
+  --border: #e1e6ee;
+  --text: #1c2430;
+  --muted: #5b6676;
+  --accent: #1f4e8c;
+  --accent-soft: #e6eef9;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12161c;
+    --card: #1a2029;
+    --border: #2a3340;
+    --text: #e6eaf0;
+    --muted: #9aa5b5;
+    --accent: #7fb0f0;
+    --accent-soft: #1f2e45;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 40px 20px 60px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+.ab { max-width: 860px; margin: 0 auto; }
+.ab a { color: var(--accent); text-decoration: none; }
+.ab a:hover { text-decoration: underline; }
+.ab-hero {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  padding: 8px 0 28px;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+.ab-hero img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--accent-soft);
+  box-shadow: 0 4px 14px rgba(0,0,0,.12);
+}
+.ab-hero h1 { margin: 0 0 4px; font-size: 2rem; letter-spacing: -0.01em; }
+.ab-role { margin: 0 0 12px; color: var(--muted); font-size: 1.02rem; }
+.ab-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.ab-btn {
+  display: inline-block;
+  padding: 5px 12px;
+  font-size: .85rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--accent) !important;
+  transition: all .15s;
+}
+.ab-btn:hover { background: var(--accent-soft); border-color: var(--accent); text-decoration: none !important; }
+.ab h2 {
+  margin: 36px 0 14px;
+  font-size: 1.25rem;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--accent);
+  display: inline-block;
+}
+.ab-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.ab-tag { padding: 3px 11px; font-size: .82rem; border-radius: 6px; background: var(--accent-soft); color: var(--accent); }
+.ab-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+}
+.ab-card h3 { margin: 0 0 4px; font-size: 1.05rem; line-height: 1.35; }
+.ab-authors { margin: 0 0 4px; font-size: .95rem; }
+.ab-venue { margin: 0 0 10px; font-size: .9rem; color: var(--muted); }
+.ab-year { float: right; margin-left: 12px; font-size: .8rem; font-weight: 600; color: var(--muted); }
+.ab-footer { margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--border); font-size: .85rem; color: var(--muted); }
+@media (max-width: 560px) {
+  .ab-hero { justify-content: center; text-align: center; }
+  .ab-links { justify-content: center; }
+}
+</style>
+</head>
+<body>
 <div class="ab">
 <header class="ab-hero">
 <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Antoine Bourgois">
@@ -64,3 +163,6 @@ title: "Antoine Bourgois"
 <p>antoine [dot] bourgois [at] protonmail [dot] com</p>
 <div class="ab-footer">Lattice, Montrouge, France</div>
 </div>
+
+</body>
+</html>
