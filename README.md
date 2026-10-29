@@ -1,2 +1,3 @@
-🌐 **Personal website:** [antoine-bourgois.github.io](https://antoine-bourgois.github.io/)
-
+<h2 align="center">
+  🔗 <a href="https://antoine-bourgois.github.io/">Personal Website</a>
+</h2>
